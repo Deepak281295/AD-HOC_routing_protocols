@@ -1,0 +1,482 @@
+Flow 1 (10.1.1.5 -> 10.1.1.2  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 1552.26 ms
+Flow 2 (10.1.1.17 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 13  Tx Bytes:   45232  Rx Bytes: 13364
+Packet Loss Ratio: 70.4545 %
+mean Delay: 641.411 ms
+Flow 3 (10.1.1.5 -> 10.1.1.4  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 11  Tx Bytes:   45232  Rx Bytes: 11308
+Packet Loss Ratio: 75 %
+mean Delay: 474.219 ms
+Flow 4 (10.1.1.20 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 18  Tx Bytes:   45232  Rx Bytes: 18504
+Packet Loss Ratio: 59.0909 %
+mean Delay: 359.007 ms
+Flow 5 (10.1.1.19 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 88.7116 ms
+Flow 6 (10.1.1.23 -> 10.1.1.5  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 2.46115 ms
+Flow 7 (10.1.1.8 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 10  Tx Bytes:   45232  Rx Bytes: 10280
+Packet Loss Ratio: 77.2727 %
+mean Delay: 3.63927 ms
+Flow 8 (10.1.1.1 -> 10.1.1.3  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 2.63237 ms
+Flow 9 (10.1.1.10 -> 10.1.1.3  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 10 (10.1.1.18 -> 10.1.1.2  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 12.1982 ms
+Flow 11 (10.1.1.9 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 12 (10.1.1.8 -> 10.1.1.1  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 18.7532 ms
+Flow 13 (10.1.1.21 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 9  Tx Bytes:   45232  Rx Bytes: 9252
+Packet Loss Ratio: 79.5455 %
+mean Delay: 990.305 ms
+Flow 14 (10.1.1.14 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 1133.88 ms
+Flow 15 (10.1.1.20 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 129.517 ms
+Flow 16 (10.1.1.6 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 17 (10.1.1.18 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 18 (10.1.1.14 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 4.73677 ms
+Flow 19 (10.1.1.13 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 9  Tx Bytes:   45232  Rx Bytes: 9252
+Packet Loss Ratio: 79.5455 %
+mean Delay: 466.488 ms
+Flow 20 (10.1.1.11 -> 10.1.1.5  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 627.688 ms
+Flow 21 (10.1.1.21 -> 10.1.1.4  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 12  Tx Bytes:   45232  Rx Bytes: 12336
+Packet Loss Ratio: 72.7273 %
+mean Delay: 771.491 ms
+Flow 22 (10.1.1.21 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 7.60424 ms
+Flow 23 (10.1.1.8 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 4.08997 ms
+Flow 24 (10.1.1.13 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 12  Tx Bytes:   45232  Rx Bytes: 12336
+Packet Loss Ratio: 72.7273 %
+mean Delay: 414.137 ms
+Flow 25 (10.1.1.3 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 2.65566 ms
+Flow 26 (10.1.1.14 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 31  Tx Bytes:   45232  Rx Bytes: 31868
+Packet Loss Ratio: 29.5455 %
+mean Delay: 14.2903 ms
+Flow 27 (10.1.1.7 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 50.6192 ms
+Flow 28 (10.1.1.4 -> 10.1.1.3  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 2.03492 ms
+Flow 29 (10.1.1.18 -> 10.1.1.1  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 11  Tx Bytes:   45232  Rx Bytes: 11308
+Packet Loss Ratio: 75 %
+mean Delay: 44.8404 ms
+Flow 30 (10.1.1.15 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 8.32622 ms
+Flow 31 (10.1.1.4 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 10.1421 ms
+Flow 32 (10.1.1.6 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 33 (10.1.1.25 -> 10.1.1.4  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 9  Tx Bytes:   45232  Rx Bytes: 9252
+Packet Loss Ratio: 79.5455 %
+mean Delay: 533.102 ms
+Flow 34 (10.1.1.3 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 4.29207 ms
+Flow 35 (10.1.1.5 -> 10.1.1.1  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 36 (10.1.1.2 -> 10.1.1.5  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 5  Tx Bytes:   45232  Rx Bytes: 5140
+Packet Loss Ratio: 88.6364 %
+mean Delay: 2242.89 ms
+Flow 37 (10.1.1.17 -> 10.1.1.1  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 11  Tx Bytes:   45232  Rx Bytes: 11308
+Packet Loss Ratio: 75 %
+mean Delay: 499.107 ms
+Flow 38 (10.1.1.22 -> 10.1.1.2  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 16  Tx Bytes:   45232  Rx Bytes: 16448
+Packet Loss Ratio: 63.6364 %
+mean Delay: 595.909 ms
+Flow 39 (10.1.1.15 -> 10.1.1.3  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 40 (10.1.1.7 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 13  Tx Bytes:   45232  Rx Bytes: 13364
+Packet Loss Ratio: 70.4545 %
+mean Delay: 4.66462 ms
+Flow 41 (10.1.1.2 -> 10.1.1.1  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 42 (10.1.1.12 -> 10.1.1.1  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 43 (10.1.1.7 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 6.97459 ms
+Flow 44 (10.1.1.10 -> 10.1.1.4  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 7  Tx Bytes:   45232  Rx Bytes: 7196
+Packet Loss Ratio: 84.0909 %
+mean Delay: 1367.94 ms
+Flow 45 (10.1.1.5 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 1828.31 ms
+Flow 46 (10.1.1.22 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 25  Tx Bytes:   45232  Rx Bytes: 25700
+Packet Loss Ratio: 43.1818 %
+mean Delay: 6.42467 ms
+Flow 47 (10.1.1.16 -> 10.1.1.2  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 7  Tx Bytes:   45232  Rx Bytes: 7196
+Packet Loss Ratio: 84.0909 %
+mean Delay: 1195.23 ms
+Flow 48 (10.1.1.9 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 49 (10.1.1.11 -> 10.1.1.4  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 484.033 ms
+Flow 50 (10.1.1.15 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 51 (10.1.1.13 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 0.966546 ms
+Flow 52 (10.1.1.9 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 4551.64 ms
+Flow 53 (10.1.1.14 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 10  Tx Bytes:   45232  Rx Bytes: 10280
+Packet Loss Ratio: 77.2727 %
+mean Delay: 877.916 ms
+Flow 54 (10.1.1.20 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 55 (10.1.1.10 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 7.24431 ms
+Flow 56 (10.1.1.6 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 7.32688 ms
+Flow 57 (10.1.1.24 -> 10.1.1.2  Port: 49153 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 58 (10.1.1.25 -> 10.1.1.1  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 11  Tx Bytes:   45232  Rx Bytes: 11308
+Packet Loss Ratio: 75 %
+mean Delay: 614.162 ms
+Flow 59 (10.1.1.2 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 12  Tx Bytes:   45232  Rx Bytes: 12336
+Packet Loss Ratio: 72.7273 %
+mean Delay: 2.05753 ms
+Flow 60 (10.1.1.25 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 5.23115 ms
+Flow 61 (10.1.1.11 -> 10.1.1.1  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 62 (10.1.1.20 -> 10.1.1.1  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 1069.23 ms
+Flow 63 (10.1.1.16 -> 10.1.1.5  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 1360.89 ms
+Flow 64 (10.1.1.11 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 5  Tx Bytes:   45232  Rx Bytes: 5140
+Packet Loss Ratio: 88.6364 %
+mean Delay: 5.39825 ms
+Flow 65 (10.1.1.22 -> 10.1.1.4  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 110.516 ms
+Flow 66 (10.1.1.23 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 67 (10.1.1.10 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 68 (10.1.1.7 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 40.9234 ms
+Flow 69 (10.1.1.10 -> 10.1.1.1  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 5  Tx Bytes:   45232  Rx Bytes: 5140
+Packet Loss Ratio: 88.6364 %
+mean Delay: 1480.88 ms
+Flow 70 (10.1.1.6 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 0.966651 ms
+Flow 71 (10.1.1.23 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 72 (10.1.1.1 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 7.61018 ms
+Flow 73 (10.1.1.15 -> 10.1.1.1  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 74 (10.1.1.24 -> 10.1.1.3  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 2.47571 ms
+Flow 75 (10.1.1.12 -> 10.1.1.2  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 76 (10.1.1.14 -> 10.1.1.3  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 2.66262 ms
+Flow 77 (10.1.1.23 -> 10.1.1.1  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 78 (10.1.1.1 -> 10.1.1.5  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 79 (10.1.1.8 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 7  Tx Bytes:   45232  Rx Bytes: 7196
+Packet Loss Ratio: 84.0909 %
+mean Delay: 4.25144 ms
+Flow 80 (10.1.1.21 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 81 (10.1.1.25 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 82 (10.1.1.19 -> 10.1.1.4  Port: 49154 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 83 (10.1.1.17 -> 10.1.1.3  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 84 (10.1.1.8 -> 10.1.1.3  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 12  Tx Bytes:   45232  Rx Bytes: 12336
+Packet Loss Ratio: 72.7273 %
+mean Delay: 9.42596 ms
+Flow 85 (10.1.1.24 -> 10.1.1.4  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 86 (10.1.1.23 -> 10.1.1.4  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 6  Tx Bytes:   45232  Rx Bytes: 6168
+Packet Loss Ratio: 86.3636 %
+mean Delay: 4.7917 ms
+Flow 87 (10.1.1.4 -> 10.1.1.1  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 27  Tx Bytes:   45232  Rx Bytes: 27756
+Packet Loss Ratio: 38.6364 %
+mean Delay: 257.457 ms
+Flow 88 (10.1.1.17 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 7.24174 ms
+Flow 89 (10.1.1.3 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 13  Tx Bytes:   45232  Rx Bytes: 13364
+Packet Loss Ratio: 70.4545 %
+mean Delay: 1.44152 ms
+Flow 90 (10.1.1.12 -> 10.1.1.4  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 91 (10.1.1.7 -> 10.1.1.5  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 92 (10.1.1.16 -> 10.1.1.1  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 93 (10.1.1.13 -> 10.1.1.2  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 2.8687 ms
+Flow 94 (10.1.1.21 -> 10.1.1.5  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 11.2786 ms
+Flow 95 (10.1.1.24 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 12  Tx Bytes:   45232  Rx Bytes: 12336
+Packet Loss Ratio: 72.7273 %
+mean Delay: 1.88218 ms
+Flow 96 (10.1.1.13 -> 10.1.1.1  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 97 (10.1.1.19 -> 10.1.1.2  Port: 49155 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 98 (10.1.1.16 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 1  Tx Bytes:   45232  Rx Bytes: 1028
+Packet Loss Ratio: 97.7273 %
+mean Delay: 4.87445 ms
+Flow 99 (10.1.1.20 -> 10.1.1.2  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 10  Tx Bytes:   45232  Rx Bytes: 10280
+Packet Loss Ratio: 77.2727 %
+mean Delay: 1034.12 ms
+Flow 100 (10.1.1.1 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 28  Tx Bytes:   45232  Rx Bytes: 28784
+Packet Loss Ratio: 36.3636 %
+mean Delay: 244.112 ms
+Flow 101 (10.1.1.18 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 14  Tx Bytes:   45232  Rx Bytes: 14392
+Packet Loss Ratio: 68.1818 %
+mean Delay: 3.17912 ms
+Flow 102 (10.1.1.3 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 5  Tx Bytes:   45232  Rx Bytes: 5140
+Packet Loss Ratio: 88.6364 %
+mean Delay: 2.06454 ms
+Flow 103 (10.1.1.2 -> 10.1.1.4  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 7.41802 ms
+Flow 104 (10.1.1.12 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 105 (10.1.1.6 -> 10.1.1.4  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 106 (10.1.1.22 -> 10.1.1.3  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 7  Tx Bytes:   45232  Rx Bytes: 7196
+Packet Loss Ratio: 84.0909 %
+mean Delay: 949.937 ms
+Flow 107 (10.1.1.24 -> 10.1.1.1  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 108 (10.1.1.19 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 109 (10.1.1.12 -> 10.1.1.5  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 19  Tx Bytes:   45232  Rx Bytes: 19532
+Packet Loss Ratio: 56.8182 %
+mean Delay: 1.34164 ms
+Flow 110 (10.1.1.11 -> 10.1.1.2  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 7  Tx Bytes:   45232  Rx Bytes: 7196
+Packet Loss Ratio: 84.0909 %
+mean Delay: 1.71902 ms
+Flow 111 (10.1.1.17 -> 10.1.1.2  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 4  Tx Bytes:   45232  Rx Bytes: 4112
+Packet Loss Ratio: 90.9091 %
+mean Delay: 3071.97 ms
+Flow 112 (10.1.1.19 -> 10.1.1.3  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 113 (10.1.1.9 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 3  Tx Bytes:   45232  Rx Bytes: 3084
+Packet Loss Ratio: 93.1818 %
+mean Delay: 3.31446 ms
+Flow 114 (10.1.1.22 -> 10.1.1.1  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 115 (10.1.1.4 -> 10.1.1.5  Port: 49156 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 10  Tx Bytes:   45232  Rx Bytes: 10280
+Packet Loss Ratio: 77.2727 %
+mean Delay: 125.985 ms
+Flow 116 (10.1.1.16 -> 10.1.1.4  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 117 (10.1.1.18 -> 10.1.1.3  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 2  Tx Bytes:   45232  Rx Bytes: 2056
+Packet Loss Ratio: 95.4545 %
+mean Delay: 1.88278 ms
+Flow 118 (10.1.1.15 -> 10.1.1.5  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 8  Tx Bytes:   45232  Rx Bytes: 8224
+Packet Loss Ratio: 81.8182 %
+mean Delay: 1.63298 ms
+Flow 119 (10.1.1.25 -> 10.1.1.5  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+Flow 120 (10.1.1.9 -> 10.1.1.1  Port: 49157 -> 9 protocol: 17)
+Tx Packets: 44  Rx Packets: 0  Tx Bytes:   45232  Rx Bytes: 0
+Packet Loss Ratio: 100 %
+mean Delay: -nan ms
+ Total Transmitted Packets : 5280 
+ Total Received Packets : 611 
